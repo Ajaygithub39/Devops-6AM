@@ -1,0 +1,1 @@
+dont work on file3.txt
